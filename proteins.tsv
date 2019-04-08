@@ -1,0 +1,14 @@
+Retrieving protein names and IDs from uniprot-database_(type_mim+168600).fasta
+ProteinName	ProteinID
+PARK7_HUMAN	Q99497
+PINK1_HUMAN	Q9BXM7
+HTRA2_HUMAN	O43464
+SYUA_HUMAN	P37840
+GLCM_HUMAN	P04062
+LRRK2_HUMAN	Q5S007
+PRKN_HUMAN	O60260
+SNCAP_HUMAN	Q9Y6H5
+TM175_HUMAN	Q9BSA9
+DJC13_HUMAN	O75165
+TM230_HUMAN	Q96A57
+By looking at the correlation plot, there is a clear divide between 2 groups of proteins
