@@ -13,11 +13,10 @@ def getProteinArray(uniprot_file):
         
         protein_info = []
         for fasta in parkinson_sequences:
-                name, sequence, = fasta.id, str(fasta.seq)
+                name, sequence, description= fasta.id, str(fasta.seq), str(fasta.description)
                 id = name.split("|")
-                entry =  [id[1], id[2], sequence]
+                entry =  [id[1], id[2], description, sequence]
                 protein_info.append(entry)
-
         return protein_info
 
 def get_Full_Description(uniprot_id):

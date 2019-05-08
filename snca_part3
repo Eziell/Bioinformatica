@@ -1,0 +1,30 @@
+SNCA analysis
+
+PDBe
+Source - Homo sapiens
+Lenght - 140 a.a.
+Biochemical function - cuprous ion binding 
+Biological process - supramolecular fiber organization
+Cellular component - synaptic vesicle
+Sequence domains - Synuclein, Alpha-Synuclein
+Structure domain - Synuclein
+
+Ligands and Environment - None stated...
+
+PDBsum
+Source - Homo sapiens
+Lenght - 140 a.a.
+Structure Domain - Alpha-Synuclein
+Cellular component - presynaptic vesicles (as stated in cited abstract)
+Biological process - not stated
+Sequence domains - Synuclein
+
+Pfam
+Source - Homo sapiens
+Length - 140 a.a.
+Pfam family (Sequence domain ?) - Synuclein
+
+Cath -> CATH Protein Structure Classification database, as implicit by the name is a free online resource that provides information on the evolutionary relationships of protein domains.
+Source - Homo sapiens
+Host Orgranism - Escherichia coli
+Header - Lipid Binding Protein
